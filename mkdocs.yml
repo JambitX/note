@@ -1,3 +1,43 @@
-site_name: My Docs
+site_name: JambitX | Notebook
 theme:
   name: material
+
+  icon:
+    logo: material/cloud
+
+  language: zh 
+
+  palette:
+    # Toggle light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Toggle dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+
+
+
+  features:
+    - navigation.top #返回顶部按钮
+    - navigation.tabs # 顶部导航栏
+    - search.highlight # 搜索结果高亮
+
+
+copyright: © 2025 JambitX
+
+
+nav:
+- 首页:
+  - JambitX介绍: 首页文章\JambitX介绍.md
+- 笔记:
+  - LaTeX笔记: 技术文章\LaTeX笔记.md
