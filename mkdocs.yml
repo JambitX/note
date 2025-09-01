@@ -38,6 +38,7 @@ copyright: © 2025 JambitX
 
 nav:
 - 首页:
-  - JambitX介绍: 首页文章\JambitX介绍.md
+  - JambitX介绍: 首页文章/JambitX介绍.md
+  - 更新日志: 首页文章/update log.md
 - 笔记:
-  - LaTeX笔记: 技术文章\LaTeX笔记.md
+  - LaTeX笔记: 技术文章/LaTeX笔记.md

@@ -1,0 +1,2 @@
+# JambitX's Notebook's Update Log
+- 2025.9.2  上传[浙大竺可桢学院[实用技能拾遗]](https://www.bilibili.com/video/BV1ka4y1o7S9/?share_source=copy_web&vd_source=6bb34eaaa48b465fda74041adcfbe5f1)课程的[LaTeX学习笔记](../技术文章/LaTeX笔记.md)
